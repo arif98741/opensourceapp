@@ -2,8 +2,6 @@
 
 The idea of this repository is for the open source community to decide how the application will look and feel.
 
-
-
 ## Application Requirements
 
 * The application must be designed for developers
